@@ -1,6 +1,6 @@
 # New Balance A/B Testing
 
-[Thumbnail]()
+![Thumbnail](presentation/NewBalance-shoestore.jpg)
 
 ## Table of Contents:
 1. [Project Background](#project-background)
