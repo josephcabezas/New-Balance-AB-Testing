@@ -29,6 +29,17 @@ The new product page design (B).
 # Data Visualizations
 [Back to Table of Contents](#table-of-contents)
 
+![tableau](presentation/nb_dashboard.png)
+The data visualization above was created in Tableau. The full interactive dashboard can be found [here](tableau/Customer-Segmentation.twb).
+
+Several insights were uncovered after analyzing the data:
+1. The probability that an individual received the new page is 50%.
+2. The probability of an individual converting to a paying customer regardless of the page they receive is 11.96%.
+3. Given that an individual was in the control group, the probability they converted to a paying customer is 12.04%.
+4. Given that an individual was in the treatment group, the probability they converted to a paying customer is 11.88%.
+
+At first glance, it appears that there is no significant difference in the conversion rates between treatment and control groups. The following section will look to reconcile this with statistical analysis.
+
 # A/B Testing
 [Back to Table of Contents](#table-of-contents)
 
