@@ -67,10 +67,6 @@ To further validate the findings, a logistic regression model was employed to te
 
 The logistic regression analysis produced a p-value of 0.19, which again exceeded the 0.05 significance threshold, corroborating the initial finding of failing to reject the null hypothesis.
 
-Results Interpretation
-The statistical evidence consistently indicates that the new page design did not demonstrate a significant improvement in conversion rates compared to the original design. The high p-values across multiple statistical approaches (0.9 from the initial analysis and 0.19 from logistic regression) strongly suggest that any observed differences in conversion rates between the two page versions were likely due to random chance rather than a genuine effect of the design changes.
-This rigorous statistical analysis provides actionable insights for New Balance's e-commerce strategy, suggesting that additional iterations or alternative approaches may be necessary to achieve significant improvements in conversion rates.
-
 # Executive Summary
 [Back to Table of Contents](#table-of-contents)
 
