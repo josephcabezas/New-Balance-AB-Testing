@@ -30,7 +30,7 @@ The new product page design (B).
 [Back to Table of Contents](#table-of-contents)
 
 ![tableau](presentation/nb_dashboard.png)
-The data visualization above was created in Tableau. The full interactive dashboard can be found [here](tableau/Customer-Segmentation.twb).
+The data visualization above was created in Tableau. The full interactive dashboard can be found [here](tableau/nb_dashboard.twb).
 
 Several insights were uncovered after analyzing the data:
 1. The probability that an individual received the new page is 50%.
