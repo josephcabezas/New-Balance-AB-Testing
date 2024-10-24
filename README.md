@@ -34,7 +34,7 @@ The data visualization above was created in Tableau. The full interactive dashbo
 
 Several insights were uncovered after analyzing the data:
 1. The probability that an individual received the new page is 50%.
-2. The probability of an individual converting to a paying customer regardless of the page they receive is 11.96%.
+2. The probability of an individual converting to a paying customer regardless of the page they received is 11.96%.
 3. Given that an individual was in the control group, the probability they converted to a paying customer is 12.04%.
 4. Given that an individual was in the treatment group, the probability they converted to a paying customer is 11.88%.
 
@@ -49,7 +49,7 @@ The entire A/B test was conducted in python. The full notebook and code can be f
 
 **Hypothesis Testing Framework:**
 
-A two-tailed hypothesis test was constructed with the null hypothesis (H₀) positing that there was no significant difference between the conversion rates between the two product pages, while the alternative hypothesis suggests that there is a statistical significance.
+A two-tailed hypothesis test was constructed with the null hypothesis (H₀) positing that there was no significant difference between the conversion rates between the two product pages, while the alternative hypothesis suggests that there is a statistical significance (H₁). The confidence level was set at 95%, thus the error rate or significance level was 5% or 0.05.
 - H₀: P(old) - P(new) ≥ 0
 - H₁: P(old) - P(new) < 0
 
